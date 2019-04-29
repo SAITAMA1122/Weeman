@@ -9,12 +9,12 @@ $ apt install git
 $ apt install python2
 
 
-$ git clone  https://github.com/HradilSerhii/WeemaN.git
+$ git clone  https://github.com/HradilSerhii/Weeman.git
 
 
 $ ls 
 
-$ cd weeman
+$ cd Weeman
 $ ls
 
 $ python2 weeman.py
