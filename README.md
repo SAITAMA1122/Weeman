@@ -23,3 +23,4 @@ $ help
 $ set url https://yandex.ru
 $ set port 8080
 $ set action_url https://yandex.ru
+cd weeman
